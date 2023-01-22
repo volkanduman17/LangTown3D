@@ -10,6 +10,7 @@ TagManager:
   - finish
   - grocery
   - colors
+  - school
   layers:
   - Default
   - TransparentFX

@@ -3289,7 +3289,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 836070363}
         m_TargetAssemblyTypeName: restartButton, Assembly-CSharp
-        m_MethodName: restartFruit
+        m_MethodName: restartColors
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

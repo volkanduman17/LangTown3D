@@ -26,5 +26,10 @@ public class entryBuildings : MonoBehaviour
         {
             SceneManager.LoadScene("CardColors");
         }
+
+        if (other.tag == "school")
+        {
+            SceneManager.LoadScene("CardSchool");
+        }
     }
 }
