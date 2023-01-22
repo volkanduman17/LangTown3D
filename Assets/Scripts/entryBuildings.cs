@@ -21,5 +21,10 @@ public class entryBuildings : MonoBehaviour
         {
             SceneManager.LoadScene("CardFruits");
         }
+
+        if (other.tag == "colors")
+        {
+            SceneManager.LoadScene("CardColors");
+        }
     }
 }

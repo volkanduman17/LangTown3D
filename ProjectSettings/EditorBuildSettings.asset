@@ -14,4 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/colorsRunnerScene.unity
+    guid: 1609890b5389ba542b70439d5fb5ab28
+  - enabled: 1
+    path: Assets/Scenes/schoolRunnerScene.unity
+    guid: 043c699a2834d8d419edac4770c95716
+  - enabled: 1
+    path: Assets/Scenes/CardColors.unity
+    guid: ac697b5e45b7b9345af1fdd67780b284
   m_configObjects: {}

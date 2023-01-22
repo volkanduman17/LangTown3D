@@ -11,5 +11,14 @@ public class restartButton : MonoBehaviour
         SceneManager.LoadScene("fruitRunnerScene");
     }
 
+    public void restartColors()
+    {
+        SceneManager.LoadScene("colorsRunnerScene");
+    }
+
+    public void restartSchool()
+    {
+        SceneManager.LoadScene("schoolRunnerScene");
+    }
 
 }

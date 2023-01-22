@@ -31,5 +31,15 @@ public class nextCardButton : MonoBehaviour
         SceneManager.LoadScene("fruitRunnerScene");
     }
 
+    public void playColor()
+    {
+        SceneManager.LoadScene("colorsRunnerScene");
+    }
+
+    public void playSchool()
+    {
+        SceneManager.LoadScene("schoolRunnerScene");
+    }
+
 }
 
